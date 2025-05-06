@@ -1,0 +1,2 @@
+## Popis úložiska s materiálmi k bakalárskej práci
+V úložisku sú 2 priečinky: Obidve zložky obsahujú grafy trénovania modelov, históriu trénovania modelov a kód Pythonu napísaný pomocou knižníc Keras a PyTorch pre každý z trénovaných modelov.
